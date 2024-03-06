@@ -50,5 +50,5 @@
 ![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.png)
   
 ![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.1.png)
-![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.2.png)
-![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.3.png)
+![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-3.png)
+![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-4.png)
