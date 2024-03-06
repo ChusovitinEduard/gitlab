@@ -27,27 +27,28 @@
 
 1. `GitLab развернут локально`
 
- ![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/1-1.PNG)
+ ![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/1-1.png)
 
 2. `Создаю новый проект и пустой репозиторий в нём.`
  
- ![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/1-2.PNG)
+ ![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/1-2.png)
+ 
 3. `Регистрирую gitlab-runner для этого проекта и запусткаю его в режиме Docker`
 
- ![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/1-3.PNG)
+ ![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/1-3.png)
  
-![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/1-3.1.PNG)
-![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/1-3.2.PNG)
+![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/1-3.1.png)
+![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/1-3.2.png)
 
 ### Задание 2
 
 1. `Пушь репозитория на GitLab` 
-![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-1.PNG)
+![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-1.png)
   
 2. `Создайю .gitlab-ci.yml, описав в нём все необходимые этапы` 
 
-![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.PNG)
+![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.png)
   
-![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.1.PNG)
-![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.2.PNG)
-![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.3.PNG)
+![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.1.png)
+![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.2.png)
+![alt text](https://github.com/ChusovitinEduard/gitlab/blob/main/img/2-2.3.png)
